@@ -1,0 +1,400 @@
+Rule 1:
+  Godfather: Part II, The (1974) -> Godfather, The (1972)
+  Support: 83, Confidence: 0.8218
+
+Rule 2:
+  Beauty and the Beast (1991) -> Aladdin (1992)
+  Support: 86, Confidence: 0.7818
+
+Rule 3:
+  Shrek 2 (2004) -> Shrek (2001)
+  Support: 54, Confidence: 0.7714
+
+Rule 4:
+  Star Wars: Episode I - The Phantom Menace (1999) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 62, Confidence: 0.7654
+
+Rule 5:
+  Fifth Element, The (1997) -> Matrix, The (1999)
+  Support: 64, Confidence: 0.7529
+
+Rule 6:
+  Edward Scissorhands (1990) -> Forrest Gump (1994)
+  Support: 51, Confidence: 0.7500
+
+Rule 7:
+  Shrek 2 (2004) -> Forrest Gump (1994)
+  Support: 52, Confidence: 0.7429
+
+Rule 8:
+  Snatch (2000) -> Matrix, The (1999)
+  Support: 52, Confidence: 0.7429
+
+Rule 9:
+  Iron Man (2008) -> Dark Knight, The (2008)
+  Support: 52, Confidence: 0.7429
+
+Rule 10:
+  Finding Nemo (2003) -> Forrest Gump (1994)
+  Support: 83, Confidence: 0.7411
+
+Rule 11:
+  Total Recall (1990) -> Matrix, The (1999)
+  Support: 51, Confidence: 0.7391
+
+Rule 12:
+  Casablanca (1942) -> Silence of the Lambs, The (1991)
+  Support: 51, Confidence: 0.7391
+
+Rule 13:
+  Minority Report (2002) -> Matrix, The (1999)
+  Support: 65, Confidence: 0.7386
+
+Rule 14:
+  Cliffhanger (1993) -> True Lies (1994)
+  Support: 53, Confidence: 0.7361
+
+Rule 15:
+  Indiana Jones and the Temple of Doom (1984) -> Indiana Jones and the Last Crusade (1989)
+  Support: 63, Confidence: 0.7326
+
+Rule 16:
+  Bourne Identity, The (2002) -> Matrix, The (1999)
+  Support: 60, Confidence: 0.7317
+
+Rule 17:
+  Rain Man (1988) -> Forrest Gump (1994)
+  Support: 59, Confidence: 0.7284
+
+Rule 18:
+  Batman Forever (1995) -> Batman (1989)
+  Support: 56, Confidence: 0.7273
+
+Rule 19:
+  Total Recall (1990) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 50, Confidence: 0.7246
+
+Rule 20:
+  Pretty Woman (1990) -> Forrest Gump (1994)
+  Support: 71, Confidence: 0.7245
+
+Rule 21:
+  Kill Bill: Vol. 2 (2004) -> Kill Bill: Vol. 1 (2003)
+  Support: 61, Confidence: 0.7176
+
+Rule 22:
+  Kill Bill: Vol. 2 (2004) -> Matrix, The (1999)
+  Support: 61, Confidence: 0.7176
+
+Rule 23:
+  Snatch (2000) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 50, Confidence: 0.7143
+
+Rule 24:
+  Snatch (2000) -> Forrest Gump (1994)
+  Support: 50, Confidence: 0.7143
+
+Rule 25:
+  Four Weddings and a Funeral (1994) -> Forrest Gump (1994)
+  Support: 55, Confidence: 0.7143
+
+Rule 26:
+  Sleepless in Seattle (1993) -> Forrest Gump (1994)
+  Support: 55, Confidence: 0.7143
+
+Rule 27:
+  Star Wars: Episode VI - Return of the Jedi (1983) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 105, Confidence: 0.7143
+
+Rule 28:
+  Lord of the Rings: The Return of the King, The (2003) -> Lord of the Rings: The Fellowship of the Ring, The (2001)
+  Support: 102, Confidence: 0.7133
+
+Rule 29:
+  Mrs. Doubtfire (1993) -> Forrest Gump (1994)
+  Support: 67, Confidence: 0.7128
+
+Rule 30:
+  Requiem for a Dream (2000) -> Fight Club (1999)
+  Support: 54, Confidence: 0.7105
+
+Rule 31:
+  Home Alone (1990) -> Forrest Gump (1994)
+  Support: 51, Confidence: 0.7083
+
+Rule 32:
+  Pirates of the Caribbean: The Curse of the Black Pearl (2003) -> Forrest Gump (1994)
+  Support: 84, Confidence: 0.7059
+
+Rule 33:
+  Back to the Future (1985) -> Forrest Gump (1994)
+  Support: 91, Confidence: 0.7054
+
+Rule 34:
+  V for Vendetta (2006) -> Fight Club (1999)
+  Support: 55, Confidence: 0.7051
+
+Rule 35:
+  Prestige, The (2006) -> Forrest Gump (1994)
+  Support: 50, Confidence: 0.7042
+
+Rule 36:
+  Star Wars: Episode I - The Phantom Menace (1999) -> Matrix, The (1999)
+  Support: 57, Confidence: 0.7037
+
+Rule 37:
+  Terminator, The (1984) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 75, Confidence: 0.7009
+
+Rule 38:
+  Lord of the Rings: The Two Towers, The (2002) -> Lord of the Rings: The Return of the King, The (2003)
+  Support: 95, Confidence: 0.6985
+
+Rule 39:
+  American History X (1998) -> Fight Club (1999)
+  Support: 74, Confidence: 0.6981
+
+Rule 40:
+  Incredibles, The (2004) -> Shrek (2001)
+  Support: 67, Confidence: 0.6979
+
+Rule 41:
+  Indiana Jones and the Temple of Doom (1984) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 60, Confidence: 0.6977
+
+Rule 42:
+  Star Wars: Episode V - The Empire Strikes Back (1980) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 120, Confidence: 0.6977
+
+Rule 43:
+  Green Mile, The (1999) -> Matrix, The (1999)
+  Support: 53, Confidence: 0.6974
+
+Rule 44:
+  Green Mile, The (1999) -> Forrest Gump (1994)
+  Support: 53, Confidence: 0.6974
+
+Rule 45:
+  Departed, The (2006) -> Fight Club (1999)
+  Support: 57, Confidence: 0.6951
+
+Rule 46:
+  Home Alone (1990) -> Jurassic Park (1993)
+  Support: 50, Confidence: 0.6944
+
+Rule 47:
+  Beautiful Mind, A (2001) -> Forrest Gump (1994)
+  Support: 68, Confidence: 0.6939
+
+Rule 48:
+  Aliens (1986) -> Alien (1979)
+  Support: 68, Confidence: 0.6939
+
+Rule 49:
+  Aliens (1986) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 68, Confidence: 0.6939
+
+Rule 50:
+  Cast Away (2000) -> Matrix, The (1999)
+  Support: 54, Confidence: 0.6923
+
+Rule 51:
+  Batman Begins (2005) -> Forrest Gump (1994)
+  Support: 63, Confidence: 0.6923
+
+Rule 52:
+  Star Wars: Episode I - The Phantom Menace (1999) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 56, Confidence: 0.6914
+
+Rule 53:
+  X-Men (2000) -> Matrix, The (1999)
+  Support: 69, Confidence: 0.6900
+
+Rule 54:
+  Lord of the Rings: The Fellowship of the Ring, The (2001) -> Lord of the Rings: The Return of the King, The (2003)
+  Support: 102, Confidence: 0.6892
+
+Rule 55:
+  Good Will Hunting (1997) -> Forrest Gump (1994)
+  Support: 73, Confidence: 0.6887
+
+Rule 56:
+  Indiana Jones and the Last Crusade (1989) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 86, Confidence: 0.6880
+
+Rule 57:
+  Taxi Driver (1976) -> Pulp Fiction (1994)
+  Support: 57, Confidence: 0.6867
+
+Rule 58:
+  Lion King, The (1994) -> Forrest Gump (1994)
+  Support: 85, Confidence: 0.6855
+
+Rule 59:
+  Green Mile, The (1999) -> Shawshank Redemption, The (1994)
+  Support: 52, Confidence: 0.6842
+
+Rule 60:
+  Harry Potter and the Chamber of Secrets (2002) -> Forrest Gump (1994)
+  Support: 52, Confidence: 0.6842
+
+Rule 61:
+  Lord of the Rings: The Two Towers, The (2002) -> Lord of the Rings: The Fellowship of the Ring, The (2001)
+  Support: 93, Confidence: 0.6838
+
+Rule 62:
+  Babe (1995) -> Toy Story (1995)
+  Support: 54, Confidence: 0.6835
+
+Rule 63:
+  Clear and Present Danger (1994) -> Fugitive, The (1993)
+  Support: 56, Confidence: 0.6829
+
+Rule 64:
+  Departed, The (2006) -> Shawshank Redemption, The (1994)
+  Support: 56, Confidence: 0.6829
+
+Rule 65:
+  Bourne Identity, The (2002) -> Forrest Gump (1994)
+  Support: 56, Confidence: 0.6829
+
+Rule 66:
+  Seven (a.k.a. Se7en) (1995) -> Pulp Fiction (1994)
+  Support: 101, Confidence: 0.6824
+
+Rule 67:
+  Ghostbusters (a.k.a. Ghost Busters) (1984) -> Forrest Gump (1994)
+  Support: 62, Confidence: 0.6813
+
+Rule 68:
+  Dances with Wolves (1990) -> Forrest Gump (1994)
+  Support: 87, Confidence: 0.6797
+
+Rule 69:
+  Cast Away (2000) -> Forrest Gump (1994)
+  Support: 53, Confidence: 0.6795
+
+Rule 70:
+  V for Vendetta (2006) -> Matrix, The (1999)
+  Support: 53, Confidence: 0.6795
+
+Rule 71:
+  Ferris Bueller's Day Off (1986) -> Forrest Gump (1994)
+  Support: 53, Confidence: 0.6795
+
+Rule 72:
+  There's Something About Mary (1998) -> Forrest Gump (1994)
+  Support: 53, Confidence: 0.6795
+
+Rule 73:
+  Catch Me If You Can (2002) -> Matrix, The (1999)
+  Support: 57, Confidence: 0.6786
+
+Rule 74:
+  Spider-Man (2002) -> Matrix, The (1999)
+  Support: 59, Confidence: 0.6782
+
+Rule 75:
+  Incredibles, The (2004) -> Finding Nemo (2003)
+  Support: 65, Confidence: 0.6771
+
+Rule 76:
+  Outbreak (1995) -> Braveheart (1995)
+  Support: 50, Confidence: 0.6757
+
+Rule 77:
+  Trainspotting (1996) -> Usual Suspects, The (1995)
+  Support: 50, Confidence: 0.6757
+
+Rule 78:
+  Breakfast Club, The (1985) -> Forrest Gump (1994)
+  Support: 56, Confidence: 0.6747
+
+Rule 79:
+  Indiana Jones and the Temple of Doom (1984) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 58, Confidence: 0.6744
+
+Rule 80:
+  Indiana Jones and the Temple of Doom (1984) -> Forrest Gump (1994)
+  Support: 58, Confidence: 0.6744
+
+Rule 81:
+  Beautiful Mind, A (2001) -> Matrix, The (1999)
+  Support: 66, Confidence: 0.6735
+
+Rule 82:
+  Star Wars: Episode VI - Return of the Jedi (1983) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 99, Confidence: 0.6735
+
+Rule 83:
+  Kill Bill: Vol. 1 (2003) -> Forrest Gump (1994)
+  Support: 68, Confidence: 0.6733
+
+Rule 84:
+  Eternal Sunshine of the Spotless Mind (2004) -> Fight Club (1999)
+  Support: 70, Confidence: 0.6731
+
+Rule 85:
+  Terminator, The (1984) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 72, Confidence: 0.6729
+
+Rule 86:
+  Speed (1994) -> Forrest Gump (1994)
+  Support: 82, Confidence: 0.6721
+
+Rule 87:
+  Indiana Jones and the Last Crusade (1989) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 84, Confidence: 0.6720
+
+Rule 88:
+  Being John Malkovich (1999) -> Pulp Fiction (1994)
+  Support: 51, Confidence: 0.6711
+
+Rule 89:
+  Crimson Tide (1995) -> Braveheart (1995)
+  Support: 53, Confidence: 0.6709
+
+Rule 90:
+  Clear and Present Danger (1994) -> Forrest Gump (1994)
+  Support: 55, Confidence: 0.6707
+
+Rule 91:
+  Departed, The (2006) -> Forrest Gump (1994)
+  Support: 55, Confidence: 0.6707
+
+Rule 92:
+  Kill Bill: Vol. 2 (2004) -> Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+  Support: 57, Confidence: 0.6706
+
+Rule 93:
+  Kill Bill: Vol. 2 (2004) -> Fight Club (1999)
+  Support: 57, Confidence: 0.6706
+
+Rule 94:
+  Kill Bill: Vol. 2 (2004) -> Forrest Gump (1994)
+  Support: 57, Confidence: 0.6706
+
+Rule 95:
+  Batman Begins (2005) -> Matrix, The (1999)
+  Support: 61, Confidence: 0.6703
+
+Rule 96:
+  V for Vendetta (2006) -> Lord of the Rings: The Fellowship of the Ring, The (2001)
+  Support: 52, Confidence: 0.6667
+
+Rule 97:
+  Star Wars: Episode I - The Phantom Menace (1999) -> Star Wars: Episode VI - Return of the Jedi (1983)
+  Support: 54, Confidence: 0.6667
+
+Rule 98:
+  Catch Me If You Can (2002) -> Forrest Gump (1994)
+  Support: 56, Confidence: 0.6667
+
+Rule 99:
+  Monsters, Inc. (2001) -> Forrest Gump (1994)
+  Support: 66, Confidence: 0.6667
+
+Rule 100:
+  Lord of the Rings: The Return of the King, The (2003) -> Lord of the Rings: The Two Towers, The (2002)
+  Support: 95, Confidence: 0.6643
+

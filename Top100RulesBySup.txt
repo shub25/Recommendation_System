@@ -1,0 +1,400 @@
+Rule 1:
+  Forrest Gump (1994) -> Shawshank Redemption, The (1994)
+  Support: 140, Confidence: 0.5364
+
+Rule 2:
+  Shawshank Redemption, The (1994) -> Forrest Gump (1994)
+  Support: 140, Confidence: 0.5858
+
+Rule 3:
+  Pulp Fiction (1994) -> Forrest Gump (1994)
+  Support: 139, Confidence: 0.6290
+
+Rule 4:
+  Forrest Gump (1994) -> Pulp Fiction (1994)
+  Support: 139, Confidence: 0.5326
+
+Rule 5:
+  Silence of the Lambs, The (1991) -> Forrest Gump (1994)
+  Support: 131, Confidence: 0.5901
+
+Rule 6:
+  Forrest Gump (1994) -> Silence of the Lambs, The (1991)
+  Support: 131, Confidence: 0.5019
+
+Rule 7:
+  Pulp Fiction (1994) -> Silence of the Lambs, The (1991)
+  Support: 127, Confidence: 0.5747
+
+Rule 8:
+  Silence of the Lambs, The (1991) -> Pulp Fiction (1994)
+  Support: 127, Confidence: 0.5721
+
+Rule 9:
+  Star Wars: Episode V - The Empire Strikes Back (1980) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 120, Confidence: 0.6977
+
+Rule 10:
+  Star Wars: Episode IV - A New Hope (1977) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 120, Confidence: 0.6452
+
+Rule 11:
+  Silence of the Lambs, The (1991) -> Shawshank Redemption, The (1994)
+  Support: 117, Confidence: 0.5270
+
+Rule 12:
+  Shawshank Redemption, The (1994) -> Silence of the Lambs, The (1991)
+  Support: 117, Confidence: 0.4895
+
+Rule 13:
+  Pulp Fiction (1994) -> Shawshank Redemption, The (1994)
+  Support: 115, Confidence: 0.5204
+
+Rule 14:
+  Shawshank Redemption, The (1994) -> Pulp Fiction (1994)
+  Support: 115, Confidence: 0.4812
+
+Rule 15:
+  Jurassic Park (1993) -> Forrest Gump (1994)
+  Support: 113, Confidence: 0.6532
+
+Rule 16:
+  Forrest Gump (1994) -> Jurassic Park (1993)
+  Support: 113, Confidence: 0.4330
+
+Rule 17:
+  Matrix, The (1999) -> Forrest Gump (1994)
+  Support: 112, Confidence: 0.5308
+
+Rule 18:
+  Forrest Gump (1994) -> Matrix, The (1999)
+  Support: 112, Confidence: 0.4291
+
+Rule 19:
+  Forrest Gump (1994) -> Schindler's List (1993)
+  Support: 110, Confidence: 0.4215
+
+Rule 20:
+  Schindler's List (1993) -> Forrest Gump (1994)
+  Support: 110, Confidence: 0.6433
+
+Rule 21:
+  Matrix, The (1999) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 110, Confidence: 0.5213
+
+Rule 22:
+  Star Wars: Episode V - The Empire Strikes Back (1980) -> Matrix, The (1999)
+  Support: 110, Confidence: 0.6395
+
+Rule 23:
+  Pulp Fiction (1994) -> Usual Suspects, The (1995)
+  Support: 109, Confidence: 0.4932
+
+Rule 24:
+  Usual Suspects, The (1995) -> Pulp Fiction (1994)
+  Support: 109, Confidence: 0.6301
+
+Rule 25:
+  Forrest Gump (1994) -> Braveheart (1995)
+  Support: 106, Confidence: 0.4061
+
+Rule 26:
+  Braveheart (1995) -> Forrest Gump (1994)
+  Support: 106, Confidence: 0.5730
+
+Rule 27:
+  Star Wars: Episode VI - Return of the Jedi (1983) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 105, Confidence: 0.7143
+
+Rule 28:
+  Star Wars: Episode IV - A New Hope (1977) -> Star Wars: Episode VI - Return of the Jedi (1983)
+  Support: 105, Confidence: 0.5645
+
+Rule 29:
+  Matrix, The (1999) -> Fight Club (1999)
+  Support: 105, Confidence: 0.4976
+
+Rule 30:
+  Fight Club (1999) -> Matrix, The (1999)
+  Support: 105, Confidence: 0.6325
+
+Rule 31:
+  Forrest Gump (1994) -> Terminator 2: Judgment Day (1991)
+  Support: 105, Confidence: 0.4023
+
+Rule 32:
+  Terminator 2: Judgment Day (1991) -> Forrest Gump (1994)
+  Support: 105, Confidence: 0.6176
+
+Rule 33:
+  Usual Suspects, The (1995) -> Forrest Gump (1994)
+  Support: 105, Confidence: 0.6069
+
+Rule 34:
+  Forrest Gump (1994) -> Usual Suspects, The (1995)
+  Support: 105, Confidence: 0.4023
+
+Rule 35:
+  Matrix, The (1999) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 105, Confidence: 0.4976
+
+Rule 36:
+  Star Wars: Episode IV - A New Hope (1977) -> Matrix, The (1999)
+  Support: 105, Confidence: 0.5645
+
+Rule 37:
+  Forrest Gump (1994) -> Fight Club (1999)
+  Support: 104, Confidence: 0.3985
+
+Rule 38:
+  Fight Club (1999) -> Forrest Gump (1994)
+  Support: 104, Confidence: 0.6265
+
+Rule 39:
+  Silence of the Lambs, The (1991) -> Braveheart (1995)
+  Support: 104, Confidence: 0.4685
+
+Rule 40:
+  Braveheart (1995) -> Silence of the Lambs, The (1991)
+  Support: 104, Confidence: 0.5622
+
+Rule 41:
+  Matrix, The (1999) -> Shawshank Redemption, The (1994)
+  Support: 104, Confidence: 0.4929
+
+Rule 42:
+  Shawshank Redemption, The (1994) -> Matrix, The (1999)
+  Support: 104, Confidence: 0.4351
+
+Rule 43:
+  Lord of the Rings: The Return of the King, The (2003) -> Lord of the Rings: The Fellowship of the Ring, The (2001)
+  Support: 102, Confidence: 0.7133
+
+Rule 44:
+  Lord of the Rings: The Fellowship of the Ring, The (2001) -> Lord of the Rings: The Return of the King, The (2003)
+  Support: 102, Confidence: 0.6892
+
+Rule 45:
+  Pulp Fiction (1994) -> Braveheart (1995)
+  Support: 102, Confidence: 0.4615
+
+Rule 46:
+  Braveheart (1995) -> Pulp Fiction (1994)
+  Support: 102, Confidence: 0.5514
+
+Rule 47:
+  Pulp Fiction (1994) -> Seven (a.k.a. Se7en) (1995)
+  Support: 101, Confidence: 0.4570
+
+Rule 48:
+  Seven (a.k.a. Se7en) (1995) -> Pulp Fiction (1994)
+  Support: 101, Confidence: 0.6824
+
+Rule 49:
+  Shawshank Redemption, The (1994) -> Schindler's List (1993)
+  Support: 100, Confidence: 0.4184
+
+Rule 50:
+  Schindler's List (1993) -> Shawshank Redemption, The (1994)
+  Support: 100, Confidence: 0.5848
+
+Rule 51:
+  Usual Suspects, The (1995) -> Shawshank Redemption, The (1994)
+  Support: 100, Confidence: 0.5780
+
+Rule 52:
+  Shawshank Redemption, The (1994) -> Usual Suspects, The (1995)
+  Support: 100, Confidence: 0.4184
+
+Rule 53:
+  Forrest Gump (1994) -> Star Wars: Episode IV - A New Hope (1977)
+  Support: 100, Confidence: 0.3831
+
+Rule 54:
+  Star Wars: Episode IV - A New Hope (1977) -> Forrest Gump (1994)
+  Support: 100, Confidence: 0.5376
+
+Rule 55:
+  Star Wars: Episode VI - Return of the Jedi (1983) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 99, Confidence: 0.6735
+
+Rule 56:
+  Star Wars: Episode V - The Empire Strikes Back (1980) -> Star Wars: Episode VI - Return of the Jedi (1983)
+  Support: 99, Confidence: 0.5756
+
+Rule 57:
+  Pulp Fiction (1994) -> Matrix, The (1999)
+  Support: 99, Confidence: 0.4480
+
+Rule 58:
+  Matrix, The (1999) -> Pulp Fiction (1994)
+  Support: 99, Confidence: 0.4692
+
+Rule 59:
+  Jurassic Park (1993) -> Braveheart (1995)
+  Support: 97, Confidence: 0.5607
+
+Rule 60:
+  Braveheart (1995) -> Jurassic Park (1993)
+  Support: 97, Confidence: 0.5243
+
+Rule 61:
+  Jurassic Park (1993) -> Pulp Fiction (1994)
+  Support: 97, Confidence: 0.5607
+
+Rule 62:
+  Pulp Fiction (1994) -> Jurassic Park (1993)
+  Support: 97, Confidence: 0.4389
+
+Rule 63:
+  Toy Story (1995) -> Forrest Gump (1994)
+  Support: 96, Confidence: 0.5647
+
+Rule 64:
+  Forrest Gump (1994) -> Toy Story (1995)
+  Support: 96, Confidence: 0.3678
+
+Rule 65:
+  Forrest Gump (1994) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 96, Confidence: 0.3678
+
+Rule 66:
+  Star Wars: Episode V - The Empire Strikes Back (1980) -> Forrest Gump (1994)
+  Support: 96, Confidence: 0.5581
+
+Rule 67:
+  Jurassic Park (1993) -> Silence of the Lambs, The (1991)
+  Support: 96, Confidence: 0.5549
+
+Rule 68:
+  Silence of the Lambs, The (1991) -> Jurassic Park (1993)
+  Support: 96, Confidence: 0.4324
+
+Rule 69:
+  Lord of the Rings: The Two Towers, The (2002) -> Lord of the Rings: The Return of the King, The (2003)
+  Support: 95, Confidence: 0.6985
+
+Rule 70:
+  Lord of the Rings: The Return of the King, The (2003) -> Lord of the Rings: The Two Towers, The (2002)
+  Support: 95, Confidence: 0.6643
+
+Rule 71:
+  Forrest Gump (1994) -> Aladdin (1992)
+  Support: 95, Confidence: 0.3640
+
+Rule 72:
+  Aladdin (1992) -> Forrest Gump (1994)
+  Support: 95, Confidence: 0.6090
+
+Rule 73:
+  Terminator 2: Judgment Day (1991) -> Braveheart (1995)
+  Support: 95, Confidence: 0.5588
+
+Rule 74:
+  Braveheart (1995) -> Terminator 2: Judgment Day (1991)
+  Support: 95, Confidence: 0.5135
+
+Rule 75:
+  Forrest Gump (1994) -> Seven (a.k.a. Se7en) (1995)
+  Support: 94, Confidence: 0.3602
+
+Rule 76:
+  Seven (a.k.a. Se7en) (1995) -> Forrest Gump (1994)
+  Support: 94, Confidence: 0.6351
+
+Rule 77:
+  Matrix, The (1999) -> Saving Private Ryan (1998)
+  Support: 94, Confidence: 0.4455
+
+Rule 78:
+  Saving Private Ryan (1998) -> Matrix, The (1999)
+  Support: 94, Confidence: 0.6267
+
+Rule 79:
+  Silence of the Lambs, The (1991) -> Schindler's List (1993)
+  Support: 94, Confidence: 0.4234
+
+Rule 80:
+  Schindler's List (1993) -> Silence of the Lambs, The (1991)
+  Support: 94, Confidence: 0.5497
+
+Rule 81:
+  Shawshank Redemption, The (1994) -> Braveheart (1995)
+  Support: 94, Confidence: 0.3933
+
+Rule 82:
+  Braveheart (1995) -> Shawshank Redemption, The (1994)
+  Support: 94, Confidence: 0.5081
+
+Rule 83:
+  Lord of the Rings: The Two Towers, The (2002) -> Lord of the Rings: The Fellowship of the Ring, The (2001)
+  Support: 93, Confidence: 0.6838
+
+Rule 84:
+  Lord of the Rings: The Fellowship of the Ring, The (2001) -> Lord of the Rings: The Two Towers, The (2002)
+  Support: 93, Confidence: 0.6284
+
+Rule 85:
+  Lord of the Rings: The Fellowship of the Ring, The (2001) -> Matrix, The (1999)
+  Support: 93, Confidence: 0.6284
+
+Rule 86:
+  Matrix, The (1999) -> Lord of the Rings: The Fellowship of the Ring, The (2001)
+  Support: 93, Confidence: 0.4408
+
+Rule 87:
+  Pulp Fiction (1994) -> Schindler's List (1993)
+  Support: 93, Confidence: 0.4208
+
+Rule 88:
+  Schindler's List (1993) -> Pulp Fiction (1994)
+  Support: 93, Confidence: 0.5439
+
+Rule 89:
+  Pulp Fiction (1994) -> Fight Club (1999)
+  Support: 92, Confidence: 0.4163
+
+Rule 90:
+  Fight Club (1999) -> Pulp Fiction (1994)
+  Support: 92, Confidence: 0.5542
+
+Rule 91:
+  Shawshank Redemption, The (1994) -> Fight Club (1999)
+  Support: 92, Confidence: 0.3849
+
+Rule 92:
+  Fight Club (1999) -> Shawshank Redemption, The (1994)
+  Support: 92, Confidence: 0.5542
+
+Rule 93:
+  Silence of the Lambs, The (1991) -> Star Wars: Episode V - The Empire Strikes Back (1980)
+  Support: 92, Confidence: 0.4144
+
+Rule 94:
+  Star Wars: Episode V - The Empire Strikes Back (1980) -> Silence of the Lambs, The (1991)
+  Support: 92, Confidence: 0.5349
+
+Rule 95:
+  Silence of the Lambs, The (1991) -> Matrix, The (1999)
+  Support: 92, Confidence: 0.4144
+
+Rule 96:
+  Matrix, The (1999) -> Silence of the Lambs, The (1991)
+  Support: 92, Confidence: 0.4360
+
+Rule 97:
+  Forrest Gump (1994) -> Back to the Future (1985)
+  Support: 91, Confidence: 0.3487
+
+Rule 98:
+  Back to the Future (1985) -> Forrest Gump (1994)
+  Support: 91, Confidence: 0.7054
+
+Rule 99:
+  Forrest Gump (1994) -> Apollo 13 (1995)
+  Support: 91, Confidence: 0.3487
+
+Rule 100:
+  Apollo 13 (1995) -> Forrest Gump (1994)
+  Support: 91, Confidence: 0.6319
+
